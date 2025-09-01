@@ -51,6 +51,7 @@ latex
 # Data
 ## backup files
 *.bak
+data/
 tmp/
 out/
 outputs/
