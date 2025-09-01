@@ -53,7 +53,10 @@ latex
 *.bak
 tmp/
 out/
+outputs/
+
 out*/
+swanlog/
 
 ## point cloud data files
 *.bag
