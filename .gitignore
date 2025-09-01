@@ -53,6 +53,7 @@ latex
 *.bak
 tmp/
 out/
+out*/
 
 ## point cloud data files
 *.bag
@@ -71,6 +72,8 @@ build
 installer/*.deb
 release
 
-# project define
-# project define
-/tmp/
+# AI chat GPT
+.claude/
+CLAUDE.md
+GEMINI.md
+
