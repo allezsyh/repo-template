@@ -80,7 +80,7 @@ release
 .claude/
 CLAUDE.md
 GEMINI.md
-
+.codex
 todos/
 todolist.md
 
